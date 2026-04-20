@@ -1,4 +1,4 @@
-Hello World!
-I am Francheska, future ECE 
-Goal ko: Mag-intern sa TI Clark
-Start ng journey ko: April 19, 2026
+print("Hello World!")
+print("I am Francheska, future ECE")
+print("Goal ko: Mag-intern sa TI Clark")
+print("Start ng journey ko: April 19, 2026")
