@@ -22,20 +22,3 @@ Dream Board passer ng ECE detected ✅
 OMSIM! KAYA MO YAN
 
 
-
-
-**Commit changes** → BOOM LIVE NA 🚀
-
----
-
-### **OPTION 2: PAG GUSTO MO MAY SCREENSHOT KASAMA**
-
-**1. Screenshot mo yung output sa Pydroid**  
-**2. Sa repo → Add file → Upload files**  
-**3. Drag mo yung screenshot**  
-**4. Commit**  
-**5. Edit README.md tapos lagay mo:**  
-
-```markdown
-## 📸 Demo
-![Output](screenshot_name.png)
